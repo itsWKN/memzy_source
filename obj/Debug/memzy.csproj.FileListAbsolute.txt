@@ -1,0 +1,11 @@
+D:\Programming\Visual_Studio\Projects\memzy\memzy\bin\Debug\memzy.exe.config
+D:\Programming\Visual_Studio\Projects\memzy\memzy\bin\Debug\memzy.exe
+D:\Programming\Visual_Studio\Projects\memzy\memzy\bin\Debug\memzy.pdb
+D:\Programming\Visual_Studio\Projects\memzy\memzy\obj\Debug\memzy.csproj.AssemblyReference.cache
+D:\Programming\Visual_Studio\Projects\memzy\memzy\obj\Debug\memzy.csproj.SuggestedBindingRedirects.cache
+D:\Programming\Visual_Studio\Projects\memzy\memzy\obj\Debug\memzy.Form1.resources
+D:\Programming\Visual_Studio\Projects\memzy\memzy\obj\Debug\memzy.Properties.Resources.resources
+D:\Programming\Visual_Studio\Projects\memzy\memzy\obj\Debug\memzy.csproj.GenerateResource.cache
+D:\Programming\Visual_Studio\Projects\memzy\memzy\obj\Debug\memzy.csproj.CoreCompileInputs.cache
+D:\Programming\Visual_Studio\Projects\memzy\memzy\obj\Debug\memzy.exe
+D:\Programming\Visual_Studio\Projects\memzy\memzy\obj\Debug\memzy.pdb
